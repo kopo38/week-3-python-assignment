@@ -1,1 +1,1 @@
-this is a week 3 python assognment
+this is a week 3 python assignment
